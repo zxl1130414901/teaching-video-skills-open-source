@@ -1,0 +1,5 @@
+interface:
+  display_name: "中文科技教学视频"
+  short_description: "用可见过程和自然讲述做科技教学视频，兼顾观看体验、知识深度与配音同步"
+  brand_color: "#54CFFF"
+  default_prompt: "联合使用 $chinese-tech-explainer-video 和 $chinese-tech-knowledge-decomposer，核对知识底稿，明确观众问题与可见演示，再按本轮范围组织讲稿、分镜和视频。"

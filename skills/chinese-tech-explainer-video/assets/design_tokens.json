@@ -1,0 +1,97 @@
+{
+  "version": "4.0-viewing-design",
+  "canvas": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24,
+    "margin_x": 96,
+    "top": 72,
+    "content_bottom": 872,
+    "subtitle_top": 920,
+    "subtitle_bottom": 1024,
+    "grid": 8
+  },
+  "font": {
+    "family": "Noto Sans SC"
+  },
+  "type": {
+    "hero": {
+      "size": 80,
+      "weight": 700,
+      "line": 104,
+      "max_lines": 2
+    },
+    "title": {
+      "size": 64,
+      "weight": 600,
+      "line": 84,
+      "max_lines": 2
+    },
+    "body": {
+      "size": 40,
+      "weight": 400,
+      "line": 60,
+      "max_lines": 3
+    },
+    "node": {
+      "size": 36,
+      "weight": 600,
+      "line": 52,
+      "max_lines": 2
+    },
+    "label": {
+      "size": 30,
+      "weight": 500,
+      "line": 44,
+      "max_lines": 1
+    },
+    "meta": {
+      "size": 26,
+      "weight": 400,
+      "line": 38,
+      "max_lines": 1
+    },
+    "subtitle": {
+      "size": 44,
+      "weight": 500,
+      "line": 62,
+      "max_lines": 2
+    }
+  },
+  "colors": {
+    "background": "#07111F",
+    "surface": "#102238",
+    "surface_alt": "#142B45",
+    "text": "#F0F5FA",
+    "secondary": "#A8B8C9",
+    "accent": "#54CFFF",
+    "warning": "#FFBD69",
+    "border": "#304A63",
+    "inactive": "#54708A"
+  },
+  "panel": {
+    "padding": 32,
+    "radius": 12,
+    "stroke": 2,
+    "gap": 20
+  },
+  "chip": {
+    "padding_x": 20,
+    "padding_y": 10,
+    "radius": 8
+  },
+  "motion": {
+    "feedback_frames": 4,
+    "enter_frames": 8,
+    "relation_frames": 12,
+    "process_frames": 24,
+    "enter_offset": 32,
+    "zoom_max": 1.05
+  },
+  "workflow": {
+    "node_width": 480,
+    "sample_node_height": 552,
+    "gap": 144,
+    "max_nodes": 4
+  }
+}

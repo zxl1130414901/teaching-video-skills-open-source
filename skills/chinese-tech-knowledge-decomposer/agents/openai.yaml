@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文科技知识拆解"
+  short_description: "拆开科技资料的命题、对象与机制，形成可追溯底稿并衔接教学视频技能"
+  default_prompt: "联合使用 $chinese-tech-knowledge-decomposer 和 $chinese-tech-explainer-video，先拆清这些资料的知识、机制与依赖，再按本轮要求组织教程。"
