@@ -22,6 +22,8 @@
 
 ## 安装与使用
 
+本技能包使用 Codex 的 **GPT-6.1 SOL** 制作与验证，建议尽量在 Codex 中使用。其他工具或模型的效果可能不同，使用时请自行验证。
+
 将 `skills/` 下两个目录完整复制到支持 `SKILL.md` 的 agent 技能目录并保持同级。例如 Codex 用户技能目录通常为 `~/.codex/skills/`。重新加载技能列表或重启客户端；具体发现方式取决于客户端。不要只复制 `SKILL.md`，还需要同目录的 `references/`、`assets/` 和 `scripts/`。
 
 ```text
